@@ -1,0 +1,2 @@
+# Windsurf
+Store originals.
